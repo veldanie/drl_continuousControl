@@ -30,7 +30,7 @@ The action space has 4 dimensions and each variable corresponds to a number betw
 
     Place the file in the repository directory, and unzip (or decompress) the file.
 
-2. 
+    
 
 # Instructions
 The file `dqn_agent.py` corresponds to the agent class and includes the methods for interacting with the environment and training the agent. `model.py` contains the neural network architecture.   `Continuous_Control.ipynb`displays the solution. 
